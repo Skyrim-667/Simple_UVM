@@ -31,7 +31,7 @@ As mentioned above, in general, the DUT converts 1-bit serial input signals to a
 
 
 
-![img](D:/%E6%9C%89%E9%81%93%E4%BA%91/hustcyt@163.com/bc6d2e49f70241d1aacb361dc30271a4/clipboard.png)
+![img](https://github.com/Skyrim-667/Simple_UVM/blob/master/wavedrom.png)
 
 #### Quick start
 
