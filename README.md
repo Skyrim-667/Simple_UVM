@@ -1,6 +1,6 @@
 ## Simple_UVM
 
-#### Overview
+### Overview
 
 Simple_UVM is a simple and intuitive UVM verification platform for the demonstrative design under test (DUT), a 32-bit serial data packer, which basically packs the input serial data when the valid signal is asserted and generate the parallel 32-bit data. With the Universal Verification Methodology (UVM), the verification environment is highly modular and reusable. You can easily modify it and develop the scalable testbench for your specific DUT. 
 The directory structure of the project is as shown below.
@@ -25,7 +25,7 @@ The directory structure of the project is as shown below.
 - **verif**: includes all the components of the verification environment. 
 
 
-#### About the DUT
+### About the DUT
 
 As mentioned above, in general, the DUT converts 1-bit serial input signals to a 32-bit parallel output, which was schematically demonstrated in the following waveform diagram.
 
@@ -33,7 +33,7 @@ As mentioned above, in general, the DUT converts 1-bit serial input signals to a
 
 ![img](https://github.com/Skyrim-667/Simple_UVM/blob/master/wavedrom.png)
 
-#### Quick start
+### Quick start
 
 To run the testcase, in the directory `./vcs_sim/`
 
@@ -56,7 +56,7 @@ setenv UVM_HOME
 ```
 
 
-#### To do
+### To do
 
 - Introduce control and status registers in the rtl design to implement a configurable design for a various-bit output and interrupt function.
 - Utilize UVM register model for the verification of the modified design.
