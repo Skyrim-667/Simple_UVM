@@ -31,14 +31,14 @@ local virtual my_interface my_vifs;
             bins valid_22_times = (1[*22]);
             bins valid_23_times = (1[*23]);
             bins valid_24_times = (1[*24]);
-            //bins valid_25_times = (1[*25]);
-            //bins valid_26_times = (1[*26]);
-            //bins valid_27_times = (1[*27]);
-            //bins valid_28_times = (1[*28]);
-            //bins valid_29_times = (1[*29]);
-            //bins valid_30_times = (1[*30]);
-            //bins valid_31_times = (1[*31]);
-            //bins valid_32_times = (1[*32]);
+            bins valid_25_times = (1[*25]);
+            bins valid_26_times = (1[*26]);
+            bins valid_27_times = (1[*27]);
+            bins valid_28_times = (1[*28]);
+            bins valid_29_times = (1[*29]);
+            bins valid_30_times = (1[*30]);
+            bins valid_31_times = (1[*31]);
+            bins valid_32_times = (1[*32]);
         } 
     endgroup
 
